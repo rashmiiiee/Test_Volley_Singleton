@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_Volley_Singleton</string>
+    <string name="this_is_title">this is title</string>
+    <string name="this_is_lorem_ipsum_content_of_universe">this is lorem ipsum content of universe</string>
+</resources>
